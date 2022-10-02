@@ -3,3 +3,4 @@ const multiplicators = (a,b, printText )=>{
 }
 
 multiplicators(4,'5','Multiplicando numeros: ')
+//esto no se hace por lo digo yo, entendiste!
