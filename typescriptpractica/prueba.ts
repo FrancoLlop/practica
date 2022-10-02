@@ -3,3 +3,5 @@
 }
 
 multiplicator(4,5,'Multiplied numbers: ')
+
+//bueno esto es para practicar
